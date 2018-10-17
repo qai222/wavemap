@@ -52,8 +52,6 @@ Make sure you use the same boundbox (you can translate that) for both top and bo
     ```
     python wmap2.py <pmesh_file_top> <pmesh_file_bot>  # remember we define top and bot based on c axis
     ```
-
-
         
 
 
