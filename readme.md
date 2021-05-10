@@ -1,7 +1,12 @@
 # Wavemap
 
 This is used for describing the relative undulation of 
-molecular surfaces generated for a slab model. You need `jmol`, `matplotlib`,
+molecular surfaces generated for a slab model.
+This has been used to produce figures in
+`Chem. Mater. 2019, 31, 17, 6900–6907`.
+DOI: 10.1021/acs.chemmater.9b01317
+
+You need `jmol`, `matplotlib`,
 `numpy` and `scipy`.
 
 ## Example Results
